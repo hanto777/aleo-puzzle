@@ -1,0 +1,3 @@
+[submodule "coinflip"]
+	path = coinflip
+	url = git@github.com:puzzlehq/coinflip.git
