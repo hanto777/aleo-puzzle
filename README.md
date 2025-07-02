@@ -21,6 +21,7 @@ docker run -it --rm aleohq/snarkos:latest /aleo/bin/snarkos account new
 ```
 
 ## Deploy Contract
+my
 
 ```bash
 snarkos developer deploy --private-key <PRIVATE_KEY> --query <QUERY> --priority-fee <PRIORITY_FEE> <PROGRAM_ID>
