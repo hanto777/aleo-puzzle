@@ -10,7 +10,7 @@ docker pull aleohq/snarkos:latest
 docker run -it --rm aleohq/snarkos:latest /aleo/bin/snarkos
 ```
 
-## Create a Puzzle Account
+## Create a Puzzle Account my
 
 ```bash
 docker run -it --rm aleohq/snarkos:latest /aleo/bin/snarkos account new
